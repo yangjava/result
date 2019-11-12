@@ -1,4 +1,5 @@
 # result
+```
 java统一封装返回结果
 /**
  * 通用的返回结果
@@ -73,3 +74,4 @@ public class ResultT<T> {
                 '}';
     }
 }
+```
